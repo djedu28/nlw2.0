@@ -1,0 +1,53 @@
+<svg width="802" height="602" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="604" width="804" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="1.25" x="1" height="600" width="800"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g id="svg_25">
+   <g transform="matrix(0.974936, 0, 0, 0.878782, 3.94439, -0.793547)" id="svg_22">
+    <title>background</title>
+    <rect x="32.87982" y="0.90301" width="92" height="52" id="svg_20" fill="none"/>
+    <g id="svg_19" display="none">
+     <rect id="svg_23" width="800" height="600" x="34.87982" y="2.90301" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g transform="matrix(0.974936, 0, 0, 0.878782, 3.94439, -0.793547)" id="svg_24">
+    <title>Layer 1</title>
+    <mask id="svg_17" maskUnits="userSpaceOnUse" x="147" y="32" width="210" height="175">
+     <path d="m356.947,40.8188l0,156.7682c0,4.729 -3.167,8.557 -7.081,8.557l-195.354,0c-1.757,0 -3.368,-0.77 -4.606,-2.057c-1.511,-1.573 -2.476,-3.893 -2.476,-6.5l0,-156.7682c0,-4.7292 3.177,-8.5566 7.082,-8.5566l195.354,0c1.757,0 3.377,0.7699 4.606,2.0567c1.52,1.5727 2.475,3.8934 2.475,6.4999z" fill="#A3D1DE" id="svg_18"/>
+    </mask>
+    <defs transform="translate(1.02571, 1.42243) translate(19.2321, 1.42243) translate(12.622, -1.94185) translate(0, -13.6) translate(-14.3001) translate(-119.7, -95.4001) translate(135) translate(0, 110)">
+     <clipPath id="svg_15">
+      <rect width="32" height="49" fill="white" transform="rotate(90, 349, 234.693)" y="234.69336" x="349" id="svg_16"/>
+     </clipPath>
+    </defs>
+    <defs transform="translate(1.02571, 1.42243) translate(19.2321, 1.42243) translate(12.622, -1.94185) translate(0, -13.6) translate(-14.3001) translate(-119.7, -95.4001) translate(135) translate(0, 110)">
+     <clipPath id="svg_13">
+      <rect width="32" height="49" fill="white" transform="rotate(90, 355, 234.695)" y="234.69531" x="355" id="svg_14"/>
+     </clipPath>
+    </defs>
+    <path fill="#9A8AAB" stroke="#000" stroke-width="1.5" stroke-opacity="null" d="m71.7944,12.33395l0,-3.68226l-37.16353,11.40522l37.16353,11.40532l0,-3.95113c10.08453,-0.00251 27.78863,0.45558 27.78863,3.70218c0,4.53625 -18.48985,6.95621 -18.48985,6.95621l0,3.47806c0,0 41.53509,0.75435 41.53509,-16.02864c0,-13.18539 -35.57325,-13.68086 -50.83387,-13.28495l0,-0.00001z" id="svg_12"/>
+    <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+   </g>
+  </g>
+  <defs>
+   <clipPath id="svg_29">
+    <rect id="svg_34" x="45.91797" y="-43.64257" transform="rotate(90, 45.918, -43.6426)" fill="white" height="49" width="32"/>
+   </clipPath>
+  </defs>
+  <g id="svg_35">
+   <g transform="matrix(4.08163, 0, 0, 4.08163, 0, 0)" id="svg_31" clip-path="url(#svg_29)">
+    <path id="svg_32" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#BDA5F6" d="m1.2449,5.30756l46,0"/>
+    <path id="svg_33" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#BDA5F6" d="m5.24588,10.30856l-5.001,-5.001l5.001,-5.001"/>
+   </g>
+  </g>
+ </g>
+</svg>
